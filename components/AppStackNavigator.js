@@ -19,8 +19,7 @@ export const AppStackNavigator = createStackNavigator({
     navigationOptions:{
       headerShown : false
     }
-  },
-
+  }
 },
   {
     initialRouteName: 'BookDonateList'
